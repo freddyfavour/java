@@ -1,18 +1,54 @@
+# Java Fundamentals Course Repository
+
+## Overview
+This repository contains projects and code samples developed during the **Java Fundamentals** course led by Angie Jones. The focus of this course is to provide a solid foundation in Java programming through practical applications and hands-on coding exercises.
+
+## Course Description
+The Java Fundamentals course covers essential programming concepts, including:
+- Object-Oriented Programming (OOP) principles
+- Functional programming techniques
+- Core Java syntax and structures
+- Error handling and debugging strategies
+- Building simple applications using Java
+
+Each project in this repository reflects the skills and knowledge acquired throughout the course.
+
+## Technologies Used
+- Java (JDK 11 or later)
+- Visual Studio Code (IDE)
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
+Before running the projects, ensure you have the following installed:
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [Visual Studio Code](https://code.visualstudio.com/) with the Java Extension Pack
 
-## Folder Structure
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/freddyfavour/java-fundamentals-course.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd java-fundamentals-course/src/main/java/basics
+   ```
 
-The workspace contains two folders by default, where:
+### Running Projects
+To compile and run a specific Java file, use the following commands:
+```bash
+javac GrossPayCalculator.java
+java basics.GrossPayCalculator
+```
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Usage Instructions
+Each project folder contains specific usage instructions. Refer to individual project files for details on how to interact with them.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Acknowledgments
+Special thanks to Angie Jones for her insightful teaching methods and comprehensive course materials.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Contact Information
+For inquiries or feedback regarding this repository, please reach out via email at [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com).
