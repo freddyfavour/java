@@ -27,11 +27,11 @@ Before running the projects, ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/freddyfavour/java-fundamentals-course.git
+   git clone https://github.com/freddyfavour/java.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd java-fundamentals-course/src/main/java/basics
+   cd java/src/main/java/basics
    ```
 
 ### Running Projects
