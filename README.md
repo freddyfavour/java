@@ -45,7 +45,7 @@ java basics.GrossPayCalculator
 Each project folder contains specific usage instructions. Refer to individual project files for details on how to interact with them.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 Special thanks to Angie Jones for her insightful teaching methods and comprehensive course materials.
