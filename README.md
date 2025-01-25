@@ -1,17 +1,7 @@
 # Java Fundamentals Course Repository
 
 ## Overview
-This repository contains projects and code samples developed during the **Java Fundamentals** course led by Angie Jones. The focus of this course is to provide a solid foundation in Java programming through practical applications and hands-on coding exercises.
-
-## Course Description
-The Java Fundamentals course covers essential programming concepts, including:
-- Object-Oriented Programming (OOP) principles
-- Functional programming techniques
-- Core Java syntax and structures
-- Error handling and debugging strategies
-- Building simple applications using Java
-
-Each project in this repository reflects the skills and knowledge acquired throughout the course.
+The focus of this is to provide a solid foundation in Java programming through practical applications and hands-on coding exercises.
 
 ## Technologies Used
 - Java (JDK 11 or later)
